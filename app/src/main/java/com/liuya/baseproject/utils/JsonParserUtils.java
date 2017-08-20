@@ -1,15 +1,12 @@
 package com.liuya.baseproject.utils;
+
+import org.json.JSONObject;
+
 import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 import java.lang.reflect.Modifier;
-import java.util.HashMap;
 import java.util.Map;
-
-import org.json.JSONObject;
-
-import com.asiasofti.millionaire.net.HttpUtils;
-import com.google.gson.JsonObject;
 
 public class JsonParserUtils {
     public final static  String SET = "set";

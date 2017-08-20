@@ -1,12 +1,13 @@
 package com.liuya.baseproject.utils;
 
+
+import com.liuya.baseproject.base.BaseApplication;
+
 import java.io.BufferedReader;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-
-import com.asiasofti.millionaire.base.BaseApplication;
 
 
 public class StringUtils {

@@ -17,6 +17,6 @@
         android:shadowDx="1.0"
         android:shadowDy="1.0"
         android:textColor="@android:color/white"
-        android:textSize="@dimen/toast_or_process" />
+        android:textSize="@dimen/sp_14" />
 
 </LinearLayout>

@@ -1,16 +1,11 @@
 package com.liuya.baseproject.utils;
 
-import java.lang.reflect.Field;
-import java.lang.reflect.InvocationTargetException;
-import java.lang.reflect.Modifier;
-
-
-
-
-
-import com.asiasofti.millionaire.entity.LoginResult;
-
 import android.content.SharedPreferences;
+
+import com.liuya.baseproject.entity.LoginResult;
+
+import java.lang.reflect.Field;
+import java.lang.reflect.Modifier;
 
 /**
  * ShareReference 操作相关
